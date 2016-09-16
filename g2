@@ -1,4 +1,8 @@
 1234
 456
 baranch
+<<<<<<< HEAD
 master
+=======
+dev
+>>>>>>> dev
